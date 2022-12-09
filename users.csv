@@ -1,0 +1,29 @@
+﻿user_id,full_name,first_name,last_name,birthdate,salary,sex,hire_date,email,phone_number,dept_id,office_id,role_id
+1,Sam Tyler,Sam,Tyler,7/21/1980,200000,male,6/17/2010,styler@devkings.com,413-552-6789,3,2,7
+2,Steven King,Steven      ,King        ,8/25/1990,150000,male,7/7/2015,sking@devkings.com,230-670-9954,1,2,3
+3,Karen Kochhar,Karen,Kochhar     ,1/5/1991,150000,female,1/13/2016,kkochhar@devkings.com,124-567-9090,1,1,3
+4,Alexis Brady,Alexis         ,Brady,9/13/1975,250000,female,1/3/2010,abrady@devkings.com,203-408-6758,3,3,7
+5,Alexander Smith,Alexander   ,Smith   ,4/22/1965,160000,male,5/21/2009,asmith@devkings.com,190-898-5690,1,4,3
+6,Bruce Ernst,Bruce       ,Ernst       ,4/7/1995,100000,male,6/25/2019,bernst@devkings.com,203-456-9812,2,4,6
+7,David Austin,David       ,Austin      ,5/20/1998,70000,male,2/5/2022,daustin@devkings.com,860-998-1008,2,3,6
+8,Alyssa Pataballa,Alyssa,Pataballa   ,6/23/1997,110000,female,2/7/2020,apataballa@devkings.com,909-871-1987,4,1,2
+9,Diana Lorentz,Diana       ,Lorentz     ,2/14/1978,200000,female,8/17/2017,dlorentz@devkings.com,237-897-0091,4,2,1
+10,Nancy Greenberg,Nancy       ,Greenberg   ,7/17/1983,195000,female,8/16/2018,ngreenberg@devkings.com,994-873-9871,4,1,1
+11,Daniel Faviet,Daniel      ,Faviet      ,3/3/1993,120000,male,9/28/2018,dfaviet@devkings.com,883-909-7775,4,2,2
+12,John Chen,John        ,Chen        ,7/24/1983,180000,male,9/30/2012,jchen@devkings.com,765-807-1256,4,3,1
+13,Ismael Sciarra,Ismael      ,Sciarra     ,2/19/1977,145000,male,3/7/2013,isciarra@devkings.com,665-478-1267,1,3,3
+14,Jose Urman,Jose,Urman       ,5/16/1979,200000,male,11/11/2013,jurman@devkings.com,664-782-8873,3,4,7
+15,Luis Popp,Luis        ,Popp        ,10/22/1982,250000,male,12/7/2013,lpopp@devkings.com,127-982-4456,3,1,7
+16,Kenzie Raphaely,Kenzie,Raphaely    ,11/15/1984,115000,female,5/18/2018,kraphaely@devkings.com,335-892-4475,4,3,2
+17,Henna Khoo,Henna,Khoo        ,12/11/1978,190000,female,12/24/2011,hkhoo@devkings.com,443-786-5621,4,4,1
+18,Shelli Baida,Shelli      ,Baida       ,10/23/1999,90000,female,7/24/2020,sbaida@devkings.com,568-442-7762,4,4,2
+19,Samantha Tobias,Samantha ,Tobias      ,11/23/1999,75000,female,11/15/2021,stobias@devkings.com,332-563-8937,2,2,6
+20,Guy Himuro,Guy         ,Himuro      ,6/12/1996,73000,male,8/10/2021,ghimuro@devkings.com,227-465-8382,2,1,6
+21,Stan Osgood,Stan,Osgood,12/11/1993,120000,male,7/12/2018,sosgood@devkings.com,705-783-1889,2,1,5
+22,Mike Little,Mike,Little,10/22/1992,110000,male,11/23/2019,mlittle@devkings.com,995-909-1124,2,2,5
+23,Ashley Zhang,Ashley,Zhang,4/4/1997,90000,female,7/24/2020,azhang@devkings.com,565-782-9384,1,1,4
+24,Jacob Marchand,Jacob,Marchand,1/27/1996,95000,male,2/26/2019,jmarchand@devkings.com,883-955-8292,1,2,4
+25,Rachel Bergeron,Rachel,Bergeron,1/19/1990,122000,female,4/21/2016,rbergeron@devkings.com,467-907-2281,2,3,5
+26,Hannah Romaine,Hannah,Romaine,7/29/1996,85000,female,11/23/2020,hromaine@devkings.com,221-234-9090,1,3,4
+27,Jason Collins,Jason,Collins,3/16/1989,110000,male,8/24/2020,jcollins@devkings.com,607-884-0900,2,4,5
+28,Tyler Jones,Tyler,Jones,5/13/1999,79000,male,10/15/2022,tjones@devkings.com,299-728-9922,1,4,4

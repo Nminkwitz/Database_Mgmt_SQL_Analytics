@@ -1,0 +1,5 @@
+﻿dept_id,dept_name,dept_suffix,dept_description
+1,Development ,DEV,Works with all departments to serve all internal and external technical requirements
+2,Finance ,FIN,Manage important financial functions of an organization
+3,Human Resources,HR,Manage the operations at each branch and coordinate across other branches
+4,Consulting,CST,Works directly with clients to architect and develop business and software solutions 

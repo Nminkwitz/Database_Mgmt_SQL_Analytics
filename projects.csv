@@ -1,0 +1,43 @@
+﻿project_id,account_id,project_name,project_description,user_id,deadline,bill_rate,dept_id,office_id,billed_date,paid_date,due_date,hours_billed,billed_amount,paid_amount
+1,100,Boston Red Sox - P&L Database,Profit and Loss Database to actively manage expenses and revenue,8,1/22/2022,1000,4,1,3/23/2022,3/24/2022,4/23/2022,1000,1000000,1000000
+2,101,Chicago Bulls - Revenue ,Database to see where the revenue streams are coming from,11,8/12/2023,600,4,2,,,,,,
+3,102,University of Denver - Acceptance,Acceptance rate analysis based on various factors,16,12/28/2021,300,4,3,12/20/2021,1/27/2022,1/20/2022,111,33300,30000
+4,103,Catch Surf - Employee Database,Employee engagement database to manage productivity,18,11/30/2022,500,4,4,12/1/2022,11/30/2022,1/1/2023,100,50000,50000
+5,104,Palisades Tahoe - Operations Apps,Ski Resort application to determine operational efficiency,18,3/17/2022,300,4,4,3/18/2022,3/4/2022,4/18/2022,200,60000,60000
+6,105,Botanical Growers - Distribution Apps,Application database of various distribution routes,18,12/20/2022,800,4,4,10/20/2022,11/20/2022,11/20/2022,500,400000,387000
+7,106,Olympic Logistics - Inventory Mgmt Tool,Tool to run inventory management analysis,18,1/22/2023,500,4,4,,,,,,
+8,107,Boston University - SAT Score Database,Determine distribution of SAT scores based on various factors,8,6/19/2022,200,4,1,6/20/2022,7/22/2022,7/20/2022,400,80000,80000
+9,108,OTIS - Maintaince History App,Application to find common trends within elevator maintenance,8,10/23/2022,400,4,1,10/14/2022,12/1/2022,11/14/2022,105,42000,40000
+10,109,Gammz Logistics - Distribution Apps,Application to determine most efficient routes for drivers,11,12/2/2022,1000,4,2,12/3/2022,,1/3/2023,230,230000,230000
+11,110,Polar - Inventory Mgmt Tool,Tool to run inventory management analysis,8,1/11/2023,400,4,1,,,,,,
+12,111,Steamboat Springs - Operations Apps,Application for operational efficiency ,16,3/13/2022,350,4,3,3/14/2022,3/15/2022,4/14/2022,125,43750,43750
+13,112,Rambo Holdings - ERP,Enterprise Resourse Planning application to manage firm,11,7/22/2022,400,4,2,7/23/2022,8/30/2022,8/23/2022,111,44400,44400
+14,113,Rothman Group - Business Strategy,Business strategy project for scaling operations,8,1/15/2023,500,4,1,12/16/2022,,1/16/2023,100,50000,50000
+15,114,Franklin Distribution - Inventory Mgmt Tool,Inventory management tool for distribution tracking,11,12/23/2022,600,4,2,12/13/2022,,1/13/2023,200,120000,120000
+16,115,National Grid - Employee Engagement App,Application to track employee engagement,8,8/20/2022,700,4,1,8/21/2022,9/1/2022,9/21/2022,500,350000,300000
+17,116,Cisco - Operations Apps ,Several applications for operations management ,8,9/2/2022,800,4,1,9/3/2022,10/3/2022,10/3/2022,300,240000,240000
+18,117,Han Investments - ERP,Enterprise Resourse Planning application to manage firm,18,10/10/2022,1000,4,4,10/11/2022,11/15/2022,11/10/2022,200,200000,200000
+19,118,Valley Growers - Distribution Apps,Application to determine most efficient routes for drivers,16,2/3/2023,1000,4,3,,,,,,
+20,119,Boost Media Group - CRM,Customer relationship management application,8,12/5/2022,600,4,1,12/6/2022,,1/6/2023,200,120000,120000
+21,120,POW - Business Startegy,Business strategy project for scaling operations,16,11/30/2022,1200,4,3,12/1/2022,12/6/2022,1/1/2023,600,720000,720000
+22,100,Boston Red Sox - P&L Dashboard,Profit and Loss dashboard to track expenses and revenue,8,1/22/2019,500,4,1,3/23/2019,3/24/2019,4/23/2019,500,250000,243000
+23,101,Chicago Bulls - ERP ,Enterprise Resourse Planning application to manage firm,11,8/12/2019,300,4,2,8/13/2019,9/1/2019,9/13/2019,200,60000,60000
+24,104,Palisades Tahoe - Business Strategy ,Business strategy project for scaling operations,18,12/28/2019,200,4,4,12/20/2019,1/27/2020,1/20/2020,400,80000,74000
+25,100,Boston Red Sox - ERP ,Enterprise Resourse Planning application to manage firm,8,11/30/2019,1000,4,1,12/1/2019,11/30/2019,1/1/2020,350,350000,350000
+26,104,Palisades Tahoe - Employee Mgmt Apps,Applications for managing employees at scale,18,3/17/2019,200,4,4,3/18/2019,3/4/2019,4/18/2019,180,36000,36000
+27,105,Botanical Growers - Operations Apps,Application for operational efficiency ,18,12/20/2019,400,4,4,10/20/2019,11/20/2019,11/20/2019,300,120000,120000
+28,106,Olympic Logistics - Business Strategy,Business strategy project for scaling operations,18,1/22/2020,1000,4,4,1/23/2020,2/26/2020,2/23/2020,100,100000,100000
+29,115,National Grid - Solor Sales Dashboard ,Dashboard to track solar sales,8,6/19/2020,400,4,1,6/20/2020,7/22/2020,7/20/2020,200,80000,80000
+30,108,OTIS - CRM,Customer relationship management application,8,10/23/2020,900,4,1,10/14/2020,12/1/2020,11/14/2020,500,450000,415000
+31,115,National Grid - CRM,Customer relationship management application,8,12/2/2020,700,4,1,12/3/2020,,1/3/2021,300,210000,210000
+32,110,Polar - Logistics Apps,Several applications for operations management ,8,1/11/2021,500,4,1,1/12/2021,1/31/2021,2/12/2021,200,100000,100000
+33,111,Steamboat Springs - Business Strategy,Business strategy project for scaling operations,16,1/12/2021,600,4,3,1/13/2021,3/15/2022,2/13/2021,100,60000,60000
+34,100,Boston Red Sox - Business Strategy,Business strategy project for scaling operations,8,2/13/2021,700,4,1,2/14/2021,2/16/2021,3/14/2021,200,140000,140000
+35,113,Rothman Group - ERP,Enterprise Resourse Planning application to manage firm,8,3/14/2021,200,4,1,3/15/2021,4/15/2021,4/15/2021,600,120000,120000
+36,114,Franklin Distribution - Business Strategy,Business strategy project for scaling operations,11,4/15/2021,100,4,2,4/16/2021,5/10/2021,5/16/2021,500,50000,45000
+37,115,National Grid - Electric Sales Dashboard,Dashboard to track electric sales,8,5/16/2021,1000,4,1,5/17/2021,5/20/2021,6/17/2021,200,200000,200000
+38,104,Palisades Tahoe - Consumer Apps,Apps for consumer management and engagement,18,6/17/2021,600,4,4,6/18/2021,7/8/2021,7/18/2021,400,240000,240000
+39,115,National Grid - Branch P&L Dashboards,P&L Dashboards to track branch performance,8,7/18/2021,2000,4,1,7/19/2021,7/20/2021,8/19/2021,900,1800000,1800000
+40,100,Boston Red Sox - Consumer Statistics Dashboard,Dashboard to track useful consumer stats for decision making,8,8/19/2021,1000,4,1,8/20/2021,8/30/2021,9/20/2021,300,300000,300000
+41,119,Boost Media Group - CRM Dashboard,Dashboard to track sales and marketing interations,8,9/20/2021,300,4,1,9/21/2021,10/24/2021,10/21/2021,200,60000,58000
+42,100,Boston Red Sox - Operations Apps,Application for operational efficiency ,8,10/21/2021,1000,4,1,10/22/2021,11/22/2021,11/22/2021,100,100000,100000

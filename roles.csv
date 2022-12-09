@@ -1,0 +1,8 @@
+﻿role_id,role_name,role_description,dept
+1,Account Manager,Act as client advocates and work with internal departments,CST
+2,Project Consultant,Individual contributor on client engagement teams,CST
+3,Dev Dept Manager,Provides direction to project teams handling all aspects of a project,CST
+4,Software Developer,"Designing, testing, and implementing programs",DEV
+5,Finance Dept Manager,Manage important financial functions of an organization,DEV
+6,Financial Analyst,Examine data and make decisions about investment portfolios,FIN
+7,Branch Manager,Manage the operations and HR at the branch,HR
