@@ -1,2 +1,2 @@
-# BAN-5501---Data-Management-and-SQL
+# Final Project Description
 FINAL PROJECT &amp; other course files
