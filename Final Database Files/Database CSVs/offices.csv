@@ -1,0 +1,5 @@
+﻿office_id,office_name,phone_number,fax_number,address,city,state,timezone
+1,DevKings - Boston,800-514-2988,314-889-0078,1114 Main Street,Boston,MA,EST
+2,DevKings - Chicago,800-237-7798,324-678-9765,237 Cooley Drive,Chicago,IL,CST
+3,DevKings - Denver ,800-127-9987,315-909-5678,6678 Smith Avenue,Denver,CO,MST
+4,DevKings - California ,800-908-9974,336-876-8824,897 Newbury Street,Los Angeles,CA,PST
